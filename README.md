@@ -1,2 +1,2 @@
 # STS-fault-diagnosis
-A detailed manuscript entitled by "Fault Diagnosis of HDES based on STS" 
+A latest detailed draft entitled by "Fault Diagnosis of HDES based on STS" 
